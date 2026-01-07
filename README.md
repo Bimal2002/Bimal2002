@@ -74,17 +74,6 @@ Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emoji
 Specialization: **Statistics and Data Science**  
 - Core Subjects: Data Structures & Algorithms, Machine Learning, Probability & Statistics, Software Engineering, Databases  
 - Activities: Member of Coding Club, Open Source Contributor, Participant in Hackathons
-
+  
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bimal2002&show_icons=true&theme=dark" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Bimal2002&theme=dark&hide_border=false" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bimal2002&theme=onedark&row=1&margin-w=10&margin-h=10" />
-</p>
 
