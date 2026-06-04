@@ -36,8 +36,6 @@ I build full-stack products and applied machine learning systems, with a strong 
 | Frontend Developer Intern | Ideation People Solutions Private Limited | June 2024 - August 2024, Remote | Next.js, Redux.js, responsive UI development, client-side application flows |
 | Full-stack Developer Intern | Lending Buddha | June 2024 - July 2024 | Next.js, JavaScript, frontend implementation, web application logic |
 
-Current internships and part-time commitments continue through June 2026 before joining L&T Finance.
-
 ## Technical Skills
 
 **Languages**
@@ -100,10 +98,11 @@ Relevant coursework: Data Structures and Algorithms, AI and ML, Big Data Analysi
 
 ## GitHub Activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bimal2002&show_icons=true&hide_border=true&count_private=true" alt="Bimal's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal2002&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
+| Area | Links |
+| --- | --- |
+| GitHub profile | [Bimal2002](https://github.com/Bimal2002) |
+| Research repositories | [BTP-I](https://github.com/Bimal2002/BTP-I), [BTP-II](https://github.com/Bimal2002/BTP-II), [MTP-I](https://github.com/Bimal2002/mtpwork), [MTP-II](https://github.com/Bimal2002/MTP-II) |
+| Full-stack work | [portfolio-frontend](https://github.com/Bimal2002/portfolio-frontend), [portfolio-backend](https://github.com/Bimal2002/portfolio-backend), [payment-console](https://github.com/Bimal2002/payment-console) |
 
 ## Let's Connect
 
