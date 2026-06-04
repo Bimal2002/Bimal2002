@@ -2,7 +2,7 @@
 
 ### Incoming GET - IT at L&T Finance | BS-MS Statistics and Data Science graduate from IIT Kharagpur | Full-Stack and AI/ML
 
-I build full-stack products and applied machine learning systems, with a strong foundation in statistics, algorithms, databases, and deep learning. I am currently completing internship commitments through June 2026 and will be joining L&T Finance as a Graduate Engineer Trainee in the IT role from July 6, 2026.
+I build full-stack products and applied machine learning systems, with a strong foundation in statistics, algorithms, databases, and deep learning.
 
 <p>
   <a href="mailto:bimalgayali@gmail.com">
@@ -28,40 +28,15 @@ I build full-stack products and applied machine learning systems, with a strong 
 
 ## Experience
 
-**Incoming Graduate Engineer Trainee - IT**  
-L&T Finance  
-July 2026 onward
+| Role | Organization | Duration | Focus |
+| --- | --- | --- | --- |
+| Incoming Graduate Engineer Trainee - IT | L&T Finance | Starting July 6, 2026 | Financial-services technology, IT systems, full-stack and data-driven engineering |
+| Back End Developer Intern | Aerosports Parks | May 2025 - Present, Remote | Backend web development, Express.js, server-side workflows, API logic |
+| Associate Manager | Resurgent Business Pvt Ltd | March 2025 - Present, Remote | Full-stack development, product development, business-facing execution |
+| Frontend Developer Intern | Ideation People Solutions Private Limited | June 2024 - August 2024, Remote | Next.js, Redux.js, responsive UI development, client-side application flows |
+| Full-stack Developer Intern | Lending Buddha | June 2024 - July 2024 | Next.js, JavaScript, frontend implementation, web application logic |
 
-- Joining L&T Finance as a GET in the IT role from July 6, 2026.
-- Bringing a full-stack, data, and AI/ML background into financial-services technology.
-
-**Back End Developer**  
-Aerosports Parks · Internship  
-May 2025 - Present · Remote
-
-- Working on backend web development responsibilities with Express.js and server-side application workflows.
-- Continuing current internship commitments through June 2026 before joining L&T Finance.
-
-**Associate Manager**  
-Resurgent Business Pvt Ltd · Part-time  
-March 2025 - Present · Remote
-
-- Working across full-stack development, product development, and business-facing execution.
-- Supporting product workflows while balancing technical delivery and operational coordination.
-
-**Frontend Developer**  
-Ideation People Solutions Private Limited · Internship  
-June 2024 - August 2024 · Remote
-
-- Built frontend features using Next.js and Redux.js.
-- Worked on responsive UI development and client-side application flows.
-
-**Full-stack Developer**  
-Lending Buddha · Internship  
-June 2024 - July 2024
-
-- Developed full-stack features using Next.js and JavaScript.
-- Contributed to frontend implementation and application logic for web workflows.
+Current internships and part-time commitments continue through June 2026 before joining L&T Finance.
 
 ## Technical Skills
 
