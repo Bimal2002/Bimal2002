@@ -36,11 +36,32 @@ July 2026 onward
 - Bringing a full-stack, data, and AI/ML background into financial-services technology.
 
 **Back End Developer**  
-Aerosports Parks  
-September 2023 - Present
+Aerosports Parks · Internship  
+May 2025 - Present · Remote
 
-- Building and maintaining backend functionality for application workflows, APIs, and business operations.
-- Working on server-side logic, data handling, and integration-focused development while completing current commitments through June 2026 before joining L&T Finance.
+- Working on backend web development responsibilities with Express.js and server-side application workflows.
+- Continuing current internship commitments through June 2026 before joining L&T Finance.
+
+**Associate Manager**  
+Resurgent Business Pvt Ltd · Part-time  
+March 2025 - Present · Remote
+
+- Working across full-stack development, product development, and business-facing execution.
+- Supporting product workflows while balancing technical delivery and operational coordination.
+
+**Frontend Developer**  
+Ideation People Solutions Private Limited · Internship  
+June 2024 - August 2024 · Remote
+
+- Built frontend features using Next.js and Redux.js.
+- Worked on responsive UI development and client-side application flows.
+
+**Full-stack Developer**  
+Lending Buddha · Internship  
+June 2024 - July 2024
+
+- Developed full-stack features using Next.js and JavaScript.
+- Contributed to frontend implementation and application logic for web workflows.
 
 ## Technical Skills
 
