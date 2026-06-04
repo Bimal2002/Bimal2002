@@ -1,79 +1,117 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bimal Gayali</h1>
-<h3 align="center">An UnderGrad student studying Mathematics and Computing</h3>
-<p align="center">
-<img width="100%" alt="GIF" src="https://cdn.dribbble.com/users/4422816/screenshots/8803765/media/fffb308d1d7a24a8687346c57ae1ff36.gif" />
-</p>
+# Hi, I'm Bimal Gayali
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230034F7&lines=I+am+an+aspiring+Software+Engineer.;Nice+to+e-meet+you.;Scroll+till+the+end.)](https://git.io/typing-svg)
+### Incoming GET - IT at L&T Finance | BS-MS Statistics and Data Science graduate from IIT Kharagpur | Full-Stack and AI/ML
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bimal-gayali-76085521a/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bimalgayali@gmail.com)
+I build full-stack products and applied machine learning systems, with a strong foundation in statistics, algorithms, databases, and deep learning. I am currently completing internship commitments through June 2026 and will be joining L&T Finance as a Graduate Engineer Trainee in the IT role from July 6, 2026.
 
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Bimal2002" alt="Bimal2002"/></p>
-
-<img align="right" height="350px" alt="GIF" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" />
-
-
-<h3 style=>
-Let me tell you a bit about myself <img src="https://emojis.slackmojis.com/emojis/images/1520808873/3643/cool-doge.gif?1520808873" width="20" />
-</h3>
-
-- 🔭 I’m currently working on **Full Stack,Web3**.
-- 🌱 I’m currently learning **Data Structures and Algorithms,Full Stack, Web3**.
-- 🤝 I’m looking for help with **Full Stack**.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me **bimalgayali@gmail.com**
-- 😄 Pronouns: He/Him 
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="mailto:bimalgayali@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/bimalgayali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/bimalgayali" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
-
-### 🛠️ Languages & Tools
-
-#### 🧑‍💻 Programming Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</p>
-
-#### 🌐 Frontend Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> -->
-</p>
-
-#### 🖥️ Backend Development
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-</p>
-
-#### ⚙️ DevOps & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> -->
+  <a href="mailto:bimalgayali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bimalgayali%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/bimal-gayali-76085521a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bimal%20Gayali-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Bimal2002">
+    <img src="https://img.shields.io/badge/GitHub-Bimal2002-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-### 📚 Education
+## Profile
 
-#### 🎓 Indian Institute of Technology (IIT), Kharagpur  
-**BS-MS in Mathematics and Computing**  
-*Nov'2021 – Present*  
-Specialization: **Statistics and Data Science**  
-- Core Subjects: Data Structures & Algorithms, Machine Learning, Probability & Statistics, Software Engineering, Databases  
-- Activities: Member of Coding Club, Open Source Contributor, Participant in Hackathons
-  
----
+- BS-MS in Statistics and Data Science from the Department of Mathematics, Indian Institute of Technology Kharagpur.
+- Completed 10 semesters with 222 credits cleared and CGPA 8.00/10.
+- Interested in SDE roles across full-stack engineering, backend development, AI/ML applications, and data-driven products.
+- Hands-on with production-style web apps, REST APIs, authentication, databases, deep learning workflows, and model evaluation.
+- LinkedIn highlights include full-stack web development, Python/SQL for data science, machine learning, and applied AI projects.
 
+## Experience
+
+**Incoming Graduate Engineer Trainee - IT**  
+L&T Finance  
+July 2026 onward
+
+- Joining L&T Finance as a GET in the IT role from July 6, 2026.
+- Bringing a full-stack, data, and AI/ML background into financial-services technology.
+
+**Back End Developer**  
+Aerosports Parks  
+Present, through June 2026
+
+- Working on backend development responsibilities while completing current internship commitments before joining L&T Finance.
+- Contributing to server-side development, API-oriented workflows, and reliable application logic for business operations.
+
+## Technical Skills
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Full-Stack Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**AI/ML and Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+## Featured Projects
+
+| Project | Focus | Tech |
+| --- | --- | --- |
+| [MindfulBot AI-Powered Mental Health Chatbot](https://www.linkedin.com/in/bimal-gayali-76085521a/) | Full-stack AI chatbot with sentiment analysis, PHQ-9/GAD-7 assessments, automated scoring, JWT authentication, and secure backend APIs. | Node.js, Express, MongoDB Atlas, OpenAI API, Xenova Transformers |
+| [BTP-I: Bengali Handwritten Character Recognition](https://github.com/Bimal2002/BTP-I) | Comparative study of CNN variants and lightweight pretrained models for Bengali handwritten character recognition on small datasets. | Python, TensorFlow/Keras, OpenCV, scikit-learn |
+| [BTP-II: Forest Fire Management and Reforestation Optimization](https://github.com/Bimal2002/BTP-II) | Markov Decision Process and multi-objective reinforcement learning approach for forest fire management and reforestation planning. | Python, Gymnasium, Stable-Baselines3, Pandas |
+| [MTP-I: Vision Transformer and Swin Experiments](https://github.com/Bimal2002/mtpwork) | Deep learning experiments using ViT/Swin-style models with SVD and CLAHE preprocessing workflows. | Python, PyTorch, timm, OpenCV |
+| [MTP-II: Garbage Classification with Vision Transformers](https://github.com/Bimal2002/MTP-II) | Waste image classification using Vision Transformer models, adaptive loss optimization, train/validation/test evaluation, and confusion-matrix analysis. | Python, PyTorch, timm, scikit-learn |
+
+## Education
+
+**Indian Institute of Technology, Kharagpur**  
+BS-MS, Statistics and Data Science  
+2021 - 2026
+
+Relevant coursework: Data Structures and Algorithms, AI and ML, Big Data Analysis, Database Systems, Statistical Inference, Computational Statistics, Nonparametric Inference, Probability and Statistics, and Software Engineering.
+
+## Certifications and Learning
+
+- Fullstack Web Development
+- Python and SQL for Data Science
+- Supervised Machine Learning: Regression and Classification
+- Linear Algebra for Machine Learning and Data Science
+- Exploratory Data Analysis with Python
+
+## GitHub Activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bimal2002&show_icons=true&hide_border=true&count_private=true" alt="Bimal's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal2002&layout=compact&hide_border=true" alt="Most used languages" />
+</p>
+
+## Let's Connect
+
+I'm open to SDE opportunities, full-stack projects, AI/ML applications, research collaborations, and open-source work.
+
+- Email: [bimalgayali@gmail.com](mailto:bimalgayali@gmail.com)
+- LinkedIn: [Bimal Gayali](https://www.linkedin.com/in/bimal-gayali-76085521a/)
