@@ -37,10 +37,10 @@ July 2026 onward
 
 **Back End Developer**  
 Aerosports Parks  
-Present, through June 2026
+September 2023 - Present
 
-- Working on backend development responsibilities while completing current internship commitments before joining L&T Finance.
-- Contributing to server-side development, API-oriented workflows, and reliable application logic for business operations.
+- Building and maintaining backend functionality for application workflows, APIs, and business operations.
+- Working on server-side logic, data handling, and integration-focused development while completing current commitments through June 2026 before joining L&T Finance.
 
 ## Technical Skills
 
