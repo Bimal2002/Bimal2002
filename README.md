@@ -1,6 +1,6 @@
 # Hi, I'm Bimal Gayali
 
-### Incoming GET - IT at L&T Finance | BS-MS Statistics and Data Science graduate from IIT Kharagpur | Full-Stack and AI/ML
+### PGET - IT at L&T Finance | BS-MS Statistics and Data Science graduate from IIT Kharagpur | Full-Stack and AI/ML
 
 I build full-stack products and applied machine learning systems, with a strong foundation in statistics, algorithms, databases, and deep learning.
 
@@ -24,15 +24,14 @@ I build full-stack products and applied machine learning systems, with a strong 
 - Completed 10 semesters with 222 credits cleared and CGPA 8.00/10.
 - Interested in SDE roles across full-stack engineering, backend development, AI/ML applications, and data-driven products.
 - Hands-on with production-style web apps, REST APIs, authentication, databases, deep learning workflows, and model evaluation.
-- LinkedIn highlights include full-stack web development, Python/SQL for data science, machine learning, and applied AI projects.
 
 ## Experience
 
 | Role | Organization | Duration | Focus |
 | --- | --- | --- | --- |
-| Incoming Graduate Engineer Trainee - IT | L&T Finance | Starting July 6, 2026 | Financial-services technology, IT systems, full-stack and data-driven engineering |
-| Back End Developer Intern | Aerosports Parks | May 2025 - Present, Remote | Backend web development, Express.js, server-side workflows, API logic |
-| Associate Manager | Resurgent Business Pvt Ltd | March 2025 - Present, Remote | Full-stack development, product development, business-facing execution |
+| Incoming Graduate Engineer Trainee - IT | L&T Finance | July 6, 2026 - Present | Financial-services technology, IT systems, full-stack and data-driven engineering |
+| Back End Developer Intern | Aerosports Parks | May 2025 - June 2026, Remote | Backend web development, Express.js, server-side workflows, API logic |
+| Associate Manager | Resurgent Business Pvt Ltd | March 2025 - June 2026, Remote | Full-stack development, product development, business-facing execution |
 | Frontend Developer Intern | Ideation People Solutions Private Limited | June 2024 - August 2024, Remote | Next.js, Redux.js, responsive UI development, client-side application flows |
 | Full-stack Developer Intern | Lending Buddha | June 2024 - July 2024 | Next.js, JavaScript, frontend implementation, web application logic |
 
