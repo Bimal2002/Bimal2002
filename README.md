@@ -21,7 +21,6 @@ I build full-stack products and applied machine learning systems, with a strong 
 ## Profile
 
 - BS-MS in Statistics and Data Science from the Department of Mathematics, Indian Institute of Technology Kharagpur.
-- Completed 10 semesters with 222 credits cleared and CGPA 8.00/10.
 - Interested in SDE roles across full-stack engineering, backend development, AI/ML applications, and data-driven products.
 - Hands-on with production-style web apps, REST APIs, authentication, databases, deep learning workflows, and model evaluation.
 
