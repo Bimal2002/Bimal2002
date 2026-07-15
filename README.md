@@ -28,7 +28,7 @@ I build full-stack products and applied machine learning systems, with a strong 
 
 | Role | Organization | Duration | Focus |
 | --- | --- | --- | --- |
-| Incoming Graduate Engineer Trainee - IT | L&T Finance | July 6, 2026 - Present | Financial-services technology, IT systems, full-stack and data-driven engineering |
+| Post Graduate Engineer Trainee - IT | L&T Finance | July 6, 2026 - Present | Financial-services technology, IT systems, full-stack and data-driven engineering |
 | Back End Developer Intern | Aerosports Parks | May 2025 - June 2026, Remote | Backend web development, Express.js, server-side workflows, API logic |
 | Associate Manager | Resurgent Business Pvt Ltd | March 2025 - June 2026, Remote | Full-stack development, product development, business-facing execution |
 | Frontend Developer Intern | Ideation People Solutions Private Limited | June 2024 - August 2024, Remote | Next.js, Redux.js, responsive UI development, client-side application flows |
