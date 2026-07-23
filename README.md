@@ -101,9 +101,10 @@ Relevant coursework: Data Structures and Algorithms, AI and ML, Big Data Analysi
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bimal2002&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal2002&layout=compact&theme=github_dark)
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bimal2002&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bimal2002&theme=github_dark" alt="Top languages" />
+</p>
 
 ## Let's Connect
 
