@@ -99,12 +99,14 @@ Relevant coursework: Data Structures and Algorithms, AI and ML, Big Data Analysi
 - Linear Algebra for Machine Learning and Data Science
 - Exploratory Data Analysis with Python
 
-## GitHub Statistics
+## GitHub Activity
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bimal2002&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bimal2002&theme=github_dark" alt="Top languages" />
-</p>
+| Area | Links |
+| --- | --- |
+| GitHub profile | [Bimal2002](https://github.com/Bimal2002) |
+| Latest AI projects | [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI), [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) |
+| Research repositories | [BTP-I](https://github.com/Bimal2002/BTP-I), [BTP-II](https://github.com/Bimal2002/BTP-II), [MTP-I](https://github.com/Bimal2002/mtpwork), [MTP-II](https://github.com/Bimal2002/MTP-II) |
+| Full-stack work | [portfolio-frontend](https://github.com/Bimal2002/portfolio-frontend), [portfolio-backend](https://github.com/Bimal2002/portfolio-backend), [payment-console](https://github.com/Bimal2002/payment-console) |
 
 ## Let's Connect
 
