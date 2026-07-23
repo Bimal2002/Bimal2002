@@ -72,6 +72,8 @@ I build full-stack products and applied machine learning systems, with a strong 
 
 | Project | Focus | Tech |
 | --- | --- | --- |
+| [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI) | Offline speech intelligence pipeline for financial conversations: English call audio transcription, English-to-Hindi translation, transcript generation, and WER-based evaluation. | Python, PyTorch, Whisper Large-v3-Turbo, IndicTrans2, Hugging Face Transformers, JiWER |
+| [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) | Controlled event-driven loan-processing prototype with role-scoped AI agents, policy wiki, audit history, Redis Streams, and authenticated human review. | FastAPI, PostgreSQL, Redis, MCP, SQLAlchemy, Alembic, Docker |
 | [MindfulBot AI-Powered Mental Health Chatbot](https://www.linkedin.com/in/bimal-gayali-76085521a/) | Full-stack AI chatbot with sentiment analysis, PHQ-9/GAD-7 assessments, automated scoring, JWT authentication, and secure backend APIs. | Node.js, Express, MongoDB Atlas, OpenAI API, Xenova Transformers |
 | [BTP-I: Bengali Handwritten Character Recognition](https://github.com/Bimal2002/BTP-I) | Comparative study of CNN variants and lightweight pretrained models for Bengali handwritten character recognition on small datasets. | Python, TensorFlow/Keras, OpenCV, scikit-learn |
 | [BTP-II: Forest Fire Management and Reforestation Optimization](https://github.com/Bimal2002/BTP-II) | Markov Decision Process and multi-objective reinforcement learning approach for forest fire management and reforestation planning. | Python, Gymnasium, Stable-Baselines3, Pandas |
