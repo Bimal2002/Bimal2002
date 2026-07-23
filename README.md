@@ -14,6 +14,9 @@ I build scalable full-stack applications and AI-powered systems with interests i
   <a href="https://github.com/Bimal2002">
     <img src="https://img.shields.io/badge/GitHub-Bimal2002-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.kaggle.com/bimalgayali">
+    <img src="https://img.shields.io/badge/Kaggle-Bimal%20Gayali-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </p>
 
 ---
@@ -96,13 +99,11 @@ Relevant coursework: Data Structures and Algorithms, AI and ML, Big Data Analysi
 - Linear Algebra for Machine Learning and Data Science
 - Exploratory Data Analysis with Python
 
-## GitHub Activity
+## GitHub Statistics
 
-| Area | Links |
-| --- | --- |
-| GitHub profile | [Bimal2002](https://github.com/Bimal2002) |
-| Research repositories | [BTP-I](https://github.com/Bimal2002/BTP-I), [BTP-II](https://github.com/Bimal2002/BTP-II), [MTP-I](https://github.com/Bimal2002/mtpwork), [MTP-II](https://github.com/Bimal2002/MTP-II) |
-| Full-stack work | [portfolio-frontend](https://github.com/Bimal2002/portfolio-frontend), [portfolio-backend](https://github.com/Bimal2002/portfolio-backend), [payment-console](https://github.com/Bimal2002/payment-console) |
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bimal2002&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal2002&layout=compact&theme=github_dark)
 
 ## Let's Connect
 
