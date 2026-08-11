@@ -2,7 +2,7 @@
 
 ### PGET - IT at L&T Finance | BS-MS Statistics and Data Science graduate from IIT Kharagpur | Full-Stack and AI/ML
 
-I build scalable full-stack applications and AI-powered systems with interests in backend engineering, speech AI, computer vision, NLP, and machine learning. My recent work includes multilingual sp[...]
+I build scalable full-stack applications and AI-powered systems with interests in backend engineering, speech AI, computer vision, NLP, and machine learning. My recent work includes multilingual speech pipelines, role-scoped AI agents, and transformer-based vision research.
 
 <p>
   <a href="mailto:bimalgayali@gmail.com">
@@ -115,13 +115,13 @@ I build scalable full-stack applications and AI-powered systems with interests i
 
 | Project | Focus | Tech |
 | --- | --- | --- |
-| [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI) | Offline speech intelligence pipeline for financial conversations: English call audio transcription, English-to-Hindi translation, tra[...]
-| [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) | Controlled event-driven loan-processing prototype with role-scoped AI agents, policy wiki, audit history, Redis Streams, and authenticat[...]
-| [MindfulBot AI-Powered Mental Health Chatbot](https://www.linkedin.com/in/bimal-gayali-76085521a/) | Full-stack AI chatbot with sentiment analysis, PHQ-9/GAD-7 assessments, automated scoring, J[...]
-| [BTP-I: Bengali Handwritten Character Recognition](https://github.com/Bimal2002/BTP-I) | Comparative study of CNN variants and lightweight pretrained models for Bengali handwritten character re[...]
-| [BTP-II: Forest Fire Management and Reforestation Optimization](https://github.com/Bimal2002/BTP-II) | Markov Decision Process and multi-objective reinforcement learning approach for forest fir[...]
-| [MTP-I: Vision Transformer and Swin Experiments](https://github.com/Bimal2002/mtpwork) | Deep learning experiments using ViT/Swin-style models with SVD and CLAHE preprocessing workflows. | Pyth[...]
-| [MTP-II: Garbage Classification with Vision Transformers](https://github.com/Bimal2002/MTP-II) | Waste image classification using Vision Transformer models, adaptive loss optimization, train/va[...]
+| [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI) | Offline speech intelligence pipeline for financial conversations with transcription, translation, and summarization workflows. | Python, Speech AI, NLP |
+| [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) | Event-driven loan-processing prototype with role-scoped AI agents, policy workflows, and audit-ready processing history. | Node.js, TypeScript, Redis, PostgreSQL |
+| [MindfulBot AI-Powered Mental Health Chatbot](https://www.linkedin.com/in/bimal-gayali-76085521a/) | Full-stack AI chatbot with sentiment analysis, PHQ-9/GAD-7 scoring, and guided user conversations. | JavaScript, NLP, Full-Stack |
+| [BTP-I: Bengali Handwritten Character Recognition](https://github.com/Bimal2002/BTP-I) | Comparative study of CNN variants and lightweight pretrained models for Bengali handwritten character recognition. | Python, CNN, Computer Vision |
+| [BTP-II: Forest Fire Management and Reforestation Optimization](https://github.com/Bimal2002/BTP-II) | Markov Decision Process and multi-objective reinforcement learning approach for forest-fire response and reforestation strategy. | Python, Reinforcement Learning |
+| [MTP-I: Vision Transformer and Swin Experiments](https://github.com/Bimal2002/mtpwork) | Deep learning experiments using ViT/Swin-style models with SVD and CLAHE preprocessing workflows. | Python, Vision Transformers |
+| [MTP-II: Garbage Classification with Vision Transformers](https://github.com/Bimal2002/MTP-II) | Waste image classification using Vision Transformer models with adaptive optimization and train-validation analysis. | Python, PyTorch, ViT |
 
 ## Education
 
@@ -129,7 +129,7 @@ I build scalable full-stack applications and AI-powered systems with interests i
 BS-MS, Statistics and Data Science  
 2021 - 2026
 
-Relevant coursework: Data Structures and Algorithms, AI and ML, Big Data Analysis, Database Systems, Statistical Inference, Computational Statistics, Nonparametric Inference, Probability and Stat[...]
+Relevant coursework: Data Structures and Algorithms, AI and ML, Big Data Analysis, Database Systems, Statistical Inference, Computational Statistics, Nonparametric Inference, Probability and Statistics.
 
 ## Certifications and Learning
 
@@ -145,8 +145,8 @@ Relevant coursework: Data Structures and Algorithms, AI and ML, Big Data Analysi
 | --- | --- |
 | GitHub profile | [Bimal2002](https://github.com/Bimal2002) |
 | Latest AI projects | [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI), [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) |
-| Research repositories | [BTP-I](https://github.com/Bimal2002/BTP-I), [BTP-II](https://github.com/Bimal2002/BTP-II), [MTP-I](https://github.com/Bimal2002/mtpwork), [MTP-II](https://github.com/Bi[...] |
-| Full-stack work | [portfolio-frontend](https://github.com/Bimal2002/portfolio-frontend), [portfolio-backend](https://github.com/Bimal2002/portfolio-backend), [payment-console](https://github.co[...] |
+| Research repositories | [BTP-I](https://github.com/Bimal2002/BTP-I), [BTP-II](https://github.com/Bimal2002/BTP-II), [MTP-I](https://github.com/Bimal2002/mtpwork), [MTP-II](https://github.com/Bimal2002/MTP-II) |
+| Full-stack work | [portfolio-frontend](https://github.com/Bimal2002/portfolio-frontend), [portfolio-backend](https://github.com/Bimal2002/portfolio-backend), [payment-console](https://github.com/Bimal2002/payment-console) |
 
 ## Let's Connect
 
