@@ -98,6 +98,19 @@ I build scalable full-stack applications and AI-powered systems with interests i
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
+## Coding Profiles
+
+<div align="center">
+  <a href="https://leetcode.com/u/coderBimal/">
+    <img src="https://leetcard.jacoblin.cool/coderBimal?theme=dark&font=syne&ext=activity" alt="LeetCode Stats" height="200" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/bimalgayali">
+    <img src="https://gfgstatscard.vercel.app/bimalgayali?theme=dark" alt="GeeksforGeeks Stats" height="200" />
+  </a>
+</div>
+<br>
+
+
 ## Featured Projects
 
 | Project | Focus | Tech |
