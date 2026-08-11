@@ -108,24 +108,6 @@ I build scalable full-stack applications and AI-powered systems with interests i
     <img src="https://gfgstatscard.vercel.app/bimalgayali?theme=dark" alt="GeeksforGeeks Stats" height="200" />
   </a>
 </div>
-
-### GeeksforGeeks (Verified)
-
-- Profile: [bimalgayali](https://www.geeksforgeeks.org/profile/bimalgayali)
-- Coding Score: **1363**
-
-**Problem Breakdown**
-- Easy: **122**
-- Medium: **241**
-- Hard: **23**
-- Total (Easy + Medium + Hard): **386**
-
-**Overall Solved on GFG UI**
-- Problems Solved (including other categories like Basic/School): **406**
-
-- Last verified: **August 11, 2026**
-
-> If card values mismatch or fail, rely on the profile values above.
 <br>
 
 
@@ -133,13 +115,13 @@ I build scalable full-stack applications and AI-powered systems with interests i
 
 | Project | Focus | Tech |
 | --- | --- | --- |
-| [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI) | Offline speech intelligence pipeline for financial conversations: English call audio transcription, English-to-Hindi translation, tra[...] |
-| [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) | Controlled event-driven loan-processing prototype with role-scoped AI agents, policy wiki, audit history, Redis Streams, and authenticat[...] |
-| [MindfulBot AI-Powered Mental Health Chatbot](https://www.linkedin.com/in/bimal-gayali-76085521a/) | Full-stack AI chatbot with sentiment analysis, PHQ-9/GAD-7 assessments, automated scoring, J[...] |
-| [BTP-I: Bengali Handwritten Character Recognition](https://github.com/Bimal2002/BTP-I) | Comparative study of CNN variants and lightweight pretrained models for Bengali handwritten character re[...] |
-| [BTP-II: Forest Fire Management and Reforestation Optimization](https://github.com/Bimal2002/BTP-II) | Markov Decision Process and multi-objective reinforcement learning approach for forest fir[...] |
-| [MTP-I: Vision Transformer and Swin Experiments](https://github.com/Bimal2002/mtpwork) | Deep learning experiments using ViT/Swin-style models with SVD and CLAHE preprocessing workflows. | Pyth[...] |
-| [MTP-II: Garbage Classification with Vision Transformers](https://github.com/Bimal2002/MTP-II) | Waste image classification using Vision Transformer models, adaptive loss optimization, train/va[...] |
+| [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI) | Offline speech intelligence pipeline for financial conversations: English call audio transcription, English-to-Hindi translation, tra[...]
+| [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) | Controlled event-driven loan-processing prototype with role-scoped AI agents, policy wiki, audit history, Redis Streams, and authenticat[...]
+| [MindfulBot AI-Powered Mental Health Chatbot](https://www.linkedin.com/in/bimal-gayali-76085521a/) | Full-stack AI chatbot with sentiment analysis, PHQ-9/GAD-7 assessments, automated scoring, J[...]
+| [BTP-I: Bengali Handwritten Character Recognition](https://github.com/Bimal2002/BTP-I) | Comparative study of CNN variants and lightweight pretrained models for Bengali handwritten character re[...]
+| [BTP-II: Forest Fire Management and Reforestation Optimization](https://github.com/Bimal2002/BTP-II) | Markov Decision Process and multi-objective reinforcement learning approach for forest fir[...]
+| [MTP-I: Vision Transformer and Swin Experiments](https://github.com/Bimal2002/mtpwork) | Deep learning experiments using ViT/Swin-style models with SVD and CLAHE preprocessing workflows. | Pyth[...]
+| [MTP-II: Garbage Classification with Vision Transformers](https://github.com/Bimal2002/MTP-II) | Waste image classification using Vision Transformer models, adaptive loss optimization, train/va[...]
 
 ## Education
 
