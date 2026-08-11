@@ -2,7 +2,7 @@
 
 ### PGET - IT at L&T Finance | BS-MS Statistics and Data Science graduate from IIT Kharagpur | Full-Stack and AI/ML
 
-I build scalable full-stack applications and AI-powered systems with interests in backend engineering, speech AI, computer vision, NLP, and machine learning. My recent work includes multilingual speech processing, Vision Transformers, reinforcement learning, and production-style web applications.
+I build scalable full-stack applications and AI-powered systems with interests in backend engineering, speech AI, computer vision, NLP, and machine learning. My recent work includes multilingual sp[...]
 
 <p>
   <a href="mailto:bimalgayali@gmail.com">
@@ -108,6 +108,24 @@ I build scalable full-stack applications and AI-powered systems with interests i
     <img src="https://gfgstatscard.vercel.app/bimalgayali?theme=dark" alt="GeeksforGeeks Stats" height="200" />
   </a>
 </div>
+
+### GeeksforGeeks (Verified)
+
+- Profile: [bimalgayali](https://www.geeksforgeeks.org/profile/bimalgayali)
+- Coding Score: **1363**
+
+**Problem Breakdown**
+- Easy: **122**
+- Medium: **241**
+- Hard: **23**
+- Total (Easy + Medium + Hard): **386**
+
+**Overall Solved on GFG UI**
+- Problems Solved (including other categories like Basic/School): **406**
+
+- Last verified: **August 11, 2026**
+
+> If card values mismatch or fail, rely on the profile values above.
 <br>
 
 
@@ -115,13 +133,13 @@ I build scalable full-stack applications and AI-powered systems with interests i
 
 | Project | Focus | Tech |
 | --- | --- | --- |
-| [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI) | Offline speech intelligence pipeline for financial conversations: English call audio transcription, English-to-Hindi translation, transcript generation, and WER-based evaluation. | Python, PyTorch, Whisper Large-v3-Turbo, IndicTrans2, Hugging Face Transformers, JiWER |
-| [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) | Controlled event-driven loan-processing prototype with role-scoped AI agents, policy wiki, audit history, Redis Streams, and authenticated human review. | FastAPI, PostgreSQL, Redis, MCP, SQLAlchemy, Alembic, Docker |
-| [MindfulBot AI-Powered Mental Health Chatbot](https://www.linkedin.com/in/bimal-gayali-76085521a/) | Full-stack AI chatbot with sentiment analysis, PHQ-9/GAD-7 assessments, automated scoring, JWT authentication, and secure backend APIs. | Node.js, Express, MongoDB Atlas, OpenAI API, Xenova Transformers |
-| [BTP-I: Bengali Handwritten Character Recognition](https://github.com/Bimal2002/BTP-I) | Comparative study of CNN variants and lightweight pretrained models for Bengali handwritten character recognition on small datasets. | Python, TensorFlow/Keras, OpenCV, scikit-learn |
-| [BTP-II: Forest Fire Management and Reforestation Optimization](https://github.com/Bimal2002/BTP-II) | Markov Decision Process and multi-objective reinforcement learning approach for forest fire management and reforestation planning. | Python, Gymnasium, Stable-Baselines3, Pandas |
-| [MTP-I: Vision Transformer and Swin Experiments](https://github.com/Bimal2002/mtpwork) | Deep learning experiments using ViT/Swin-style models with SVD and CLAHE preprocessing workflows. | Python, PyTorch, timm, OpenCV |
-| [MTP-II: Garbage Classification with Vision Transformers](https://github.com/Bimal2002/MTP-II) | Waste image classification using Vision Transformer models, adaptive loss optimization, train/validation/test evaluation, and confusion-matrix analysis. | Python, PyTorch, timm, scikit-learn |
+| [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI) | Offline speech intelligence pipeline for financial conversations: English call audio transcription, English-to-Hindi translation, tra[...] |
+| [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) | Controlled event-driven loan-processing prototype with role-scoped AI agents, policy wiki, audit history, Redis Streams, and authenticat[...] |
+| [MindfulBot AI-Powered Mental Health Chatbot](https://www.linkedin.com/in/bimal-gayali-76085521a/) | Full-stack AI chatbot with sentiment analysis, PHQ-9/GAD-7 assessments, automated scoring, J[...] |
+| [BTP-I: Bengali Handwritten Character Recognition](https://github.com/Bimal2002/BTP-I) | Comparative study of CNN variants and lightweight pretrained models for Bengali handwritten character re[...] |
+| [BTP-II: Forest Fire Management and Reforestation Optimization](https://github.com/Bimal2002/BTP-II) | Markov Decision Process and multi-objective reinforcement learning approach for forest fir[...] |
+| [MTP-I: Vision Transformer and Swin Experiments](https://github.com/Bimal2002/mtpwork) | Deep learning experiments using ViT/Swin-style models with SVD and CLAHE preprocessing workflows. | Pyth[...] |
+| [MTP-II: Garbage Classification with Vision Transformers](https://github.com/Bimal2002/MTP-II) | Waste image classification using Vision Transformer models, adaptive loss optimization, train/va[...] |
 
 ## Education
 
@@ -129,7 +147,7 @@ I build scalable full-stack applications and AI-powered systems with interests i
 BS-MS, Statistics and Data Science  
 2021 - 2026
 
-Relevant coursework: Data Structures and Algorithms, AI and ML, Big Data Analysis, Database Systems, Statistical Inference, Computational Statistics, Nonparametric Inference, Probability and Statistics, and Software Engineering.
+Relevant coursework: Data Structures and Algorithms, AI and ML, Big Data Analysis, Database Systems, Statistical Inference, Computational Statistics, Nonparametric Inference, Probability and Stat[...]
 
 ## Certifications and Learning
 
@@ -145,8 +163,8 @@ Relevant coursework: Data Structures and Algorithms, AI and ML, Big Data Analysi
 | --- | --- |
 | GitHub profile | [Bimal2002](https://github.com/Bimal2002) |
 | Latest AI projects | [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI), [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) |
-| Research repositories | [BTP-I](https://github.com/Bimal2002/BTP-I), [BTP-II](https://github.com/Bimal2002/BTP-II), [MTP-I](https://github.com/Bimal2002/mtpwork), [MTP-II](https://github.com/Bimal2002/MTP-II) |
-| Full-stack work | [portfolio-frontend](https://github.com/Bimal2002/portfolio-frontend), [portfolio-backend](https://github.com/Bimal2002/portfolio-backend), [payment-console](https://github.com/Bimal2002/payment-console) |
+| Research repositories | [BTP-I](https://github.com/Bimal2002/BTP-I), [BTP-II](https://github.com/Bimal2002/BTP-II), [MTP-I](https://github.com/Bimal2002/mtpwork), [MTP-II](https://github.com/Bi[...] |
+| Full-stack work | [portfolio-frontend](https://github.com/Bimal2002/portfolio-frontend), [portfolio-backend](https://github.com/Bimal2002/portfolio-backend), [payment-console](https://github.co[...] |
 
 ## Let's Connect
 
