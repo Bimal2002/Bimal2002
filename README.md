@@ -2,7 +2,7 @@
 
 ### PGET - IT at L&T Finance | BS-MS Statistics and Data Science graduate from IIT Kharagpur | Full-Stack and AI/ML
 
-I build scalable full-stack applications and AI-powered systems with interests in backend engineering, speech AI, computer vision, NLP, and machine learning. My recent work includes multilingual sp[...]
+I build scalable full-stack applications and AI-powered systems with interests in backend engineering, speech AI, computer vision, NLP, and machine learning. My recent work includes multilingual .
 
 <p>
   <a href="mailto:bimalgayali@gmail.com">
