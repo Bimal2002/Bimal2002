@@ -6,7 +6,7 @@
 
 ### PGET – IT @ L&T Finance · BS-MS Statistics & Data Science, IIT Kharagpur
 
-I build scalable full-stack applications and AI-powered systems, with interests in backend engineering, DevOps, speech AI, computer vision, NLP, and machine learning. My recent work includes multilingual speech-intelligence and event-driven AI-agent systems for financial workflows.
+I build scalable full-stack applications and AI-powered systems, with interests in backend engineering (Java, Spring Boot, Quarkus), DevOps, speech AI, computer vision, NLP, and machine learning. My recent work includes multilingual speech-intelligence and event-driven AI-agent systems for financial workflows.
 
 <p>
   <a href="mailto:bimalgayali@gmail.com">
@@ -20,6 +20,9 @@ I build scalable full-stack applications and AI-powered systems, with interests 
   </a>
   <a href="https://www.kaggle.com/bimalgayali">
     <img src="https://img.shields.io/badge/Kaggle-Bimal%20Gayali-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://www.instagram.com/bimal.os/">
+    <img src="https://img.shields.io/badge/Instagram-bimal.os-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -56,11 +59,42 @@ I build scalable full-stack applications and AI-powered systems, with interests 
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,bash&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,bash&theme=dark" alt="Languages" />
 
 **Full-Stack Development**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,fastapi&theme=dark" alt="Full-Stack" />
+
+**Backend Engineering**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Swagger / OpenAPI](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![JWT / OAuth2](https://img.shields.io/badge/JWT%20%2F%20OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Redis Streams](https://img.shields.io/badge/Redis%20Streams-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Backend Concepts**
+
+![REST API Design](https://img.shields.io/badge/REST%20API%20Design-0A66C2?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat-square)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-DC382D?style=flat-square)
+![Authentication & Authorization](https://img.shields.io/badge/Authentication%20%26%20Authorization-7B2FF7?style=flat-square)
+![Caching Strategies](https://img.shields.io/badge/Caching%20Strategies-DC382D?style=flat-square)
+![ORM & Data Modeling](https://img.shields.io/badge/ORM%20%26%20Data%20Modeling-59666C?style=flat-square)
+![Concurrency & Multithreading](https://img.shields.io/badge/Concurrency%20%26%20Multithreading-ED8B00?style=flat-square)
+![Design Patterns & SOLID](https://img.shields.io/badge/Design%20Patterns%20%26%20SOLID-6DB33F?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-0A66C2?style=flat-square)
+![Unit & Integration Testing](https://img.shields.io/badge/Unit%20%26%20Integration%20Testing-25A162?style=flat-square)
 
 **Databases & Caching**
 
@@ -175,6 +209,7 @@ I'm open to SDE opportunities, full-stack projects, AI/ML applications, DevOps w
 
 - 📧 Email: [bimalgayali@gmail.com](mailto:bimalgayali@gmail.com)
 - 💼 LinkedIn: [Bimal Gayali](https://www.linkedin.com/in/bimal-gayali-76085521a/)
+- 📸 Instagram: [@bimal.os](https://www.instagram.com/bimal.os/)
 
 <div align="center">
 
