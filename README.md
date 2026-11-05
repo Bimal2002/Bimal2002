@@ -21,6 +21,9 @@ I build scalable full-stack applications and AI-powered systems, with interests 
   <a href="https://www.kaggle.com/bimalgayali">
     <img src="https://img.shields.io/badge/Kaggle-Bimal%20Gayali-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
+  <a href="https://www.instagram.com/bimal.os/">
+    <img src="https://img.shields.io/badge/Instagram-bimal.os-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Bimal2002&style=flat-square&color=0A66C2&label=Profile+Views" alt="Profile Views" />
@@ -29,20 +32,21 @@ I build scalable full-stack applications and AI-powered systems, with interests 
 
 ---
 
-## 🧭 Profile
+## Profile
 
 - BS-MS in Statistics and Data Science from the Department of Mathematics, Indian Institute of Technology Kharagpur.
 - Interested in SDE roles across full-stack engineering, backend development, DevOps, AI/ML applications, and data-driven products.
 - Hands-on with production-style web apps, REST APIs, authentication, databases, containerized deployments, deep learning workflows, and model evaluation.
 
-## ⚡ Currently
+## Currently
 
-- 🔭 Working on **financial-services technology** and full-stack, data-driven systems as a PGET – IT at L&T Finance.
-- 🌱 Deepening my work in **speech AI, AI agents, Vision Transformers, and DevOps practices** through projects like VoiceFlow AI and LoanFlow AI.
-- 👯 Open to collaborating on **full-stack, AI/ML, DevOps, and research** projects.
-- 💬 Ask me about **backend engineering, deep learning, NLP, and computer vision**.
+- Working on financial-services technology and full-stack, data-driven systems as a PGET – IT at L&T Finance.
+- Designing a shared, provider-neutral AI platform (FastAPI, PostgreSQL/pgvector, LiteLLM gateway) for Guest AI and CRM agents, alongside speech AI projects like VoiceFlow AI and LoanFlow AI.
+- Deepening my backend work in Java, Spring Boot, Quarkus, and DevOps practices (CI/CD, containers, observability).
+- Open to collaborating on full-stack, backend, AI/ML, DevOps, and research projects.
+- Ask me about backend engineering, AI agents and RAG, deep learning, NLP, and computer vision.
 
-## 💼 Experience
+## Experience
 
 | Role | Organization | Duration | Focus |
 | --- | --- | --- | --- |
@@ -52,15 +56,60 @@ I build scalable full-stack applications and AI-powered systems, with interests 
 | Frontend Developer Intern | Ideation People Solutions | Jun 2024 – Aug 2024 · Remote | Next.js, Redux.js, responsive UI development, client-side flows |
 | Full-stack Developer Intern | Lending Buddha | Jun 2024 – Jul 2024 | Next.js, JavaScript, frontend implementation, web application logic |
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,bash&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,r,js,ts,bash&theme=dark" alt="Languages" />
 
 **Full-Stack Development**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,fastapi&theme=dark" alt="Full-Stack" />
+
+**Backend Engineering**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis Streams](https://img.shields.io/badge/Redis%20Streams-DC382D?style=flat-square&logo=redis&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0A66C2?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Swagger / OpenAPI](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![JWT / OAuth2](https://img.shields.io/badge/JWT%20%2F%20OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+**Backend Concepts**
+
+![REST API Design](https://img.shields.io/badge/REST%20API%20Design-0A66C2?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat-square)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-DC382D?style=flat-square)
+![Authentication & Authorization](https://img.shields.io/badge/Authentication%20%26%20Authorization-7B2FF7?style=flat-square)
+![Caching Strategies](https://img.shields.io/badge/Caching%20Strategies-DC382D?style=flat-square)
+![ORM & Data Modeling](https://img.shields.io/badge/ORM%20%26%20Data%20Modeling-59666C?style=flat-square)
+![Concurrency & Multithreading](https://img.shields.io/badge/Concurrency%20%26%20Multithreading-ED8B00?style=flat-square)
+![Design Patterns & SOLID](https://img.shields.io/badge/Design%20Patterns%20%26%20SOLID-6DB33F?style=flat-square)
+![System Design](https://img.shields.io/badge/System%20Design-0A66C2?style=flat-square)
+![Idempotent Jobs & Outbox Pattern](https://img.shields.io/badge/Idempotent%20Jobs%20%26%20Outbox%20Pattern-7B2FF7?style=flat-square)
+![Rate Limiting & Usage Metering](https://img.shields.io/badge/Rate%20Limiting%20%26%20Usage%20Metering-DC382D?style=flat-square)
+![Multi-Tenant Design](https://img.shields.io/badge/Multi--Tenant%20Design-0A66C2?style=flat-square)
+![RAG & Vector Retrieval](https://img.shields.io/badge/RAG%20%26%20Vector%20Retrieval-009688?style=flat-square)
+![API Gateway & Model Routing](https://img.shields.io/badge/API%20Gateway%20%26%20Model%20Routing-4695EB?style=flat-square)
+![Database Migrations](https://img.shields.io/badge/Database%20Migrations-316192?style=flat-square)
+![Service-to--Service Integration](https://img.shields.io/badge/Service--to--Service%20Integration-59666C?style=flat-square)
+![Unit & Integration Testing](https://img.shields.io/badge/Unit%20%26%20Integration%20Testing-25A162?style=flat-square)
 
 **Databases & Caching**
 
@@ -112,7 +161,7 @@ I build scalable full-stack applications and AI-powered systems, with interests 
 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bimal2002&theme=tokyonight" alt="GitHub Stats" height="180" />
@@ -132,7 +181,7 @@ I build scalable full-stack applications and AI-powered systems, with interests 
   <img src="https://streak-stats.demolab.com/?user=Bimal2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🧩 Coding Profiles
+## Coding Profiles
 
 <div align="center">
   <a href="https://leetcode.com/u/coderBimal/">
@@ -143,10 +192,11 @@ I build scalable full-stack applications and AI-powered systems, with interests 
   </a>
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Focus | Tech |
 | --- | --- | --- |
+| **Movira Central AI Platform** (architecture and plan) | Shared, provider-neutral AI platform for Guest, Staff, Calendar, Marketing, and Scheduling agents: FastAPI API layer, PostgreSQL usage ledger and budgets, pgvector retrieval, private LiteLLM gateway, Celery jobs with approvals, and cloud, self-hosted (vLLM, llama.cpp), or hybrid model routing. | Python, FastAPI, PostgreSQL, pgvector, LiteLLM, Celery, Redis, LangGraph |
 | [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI) | Offline speech intelligence for financial conversations with transcription, translation, and summarization workflows. | Python, Whisper, NLP |
 | [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) | Event-driven loan-processing prototype with role-scoped AI agents, policy wiki, audit history, and secure authentication. | Python, FastAPI, Redis Streams |
 | [MindfulBot – Mental Health Chatbot](https://www.linkedin.com/in/bimal-gayali-76085521a/) | Full-stack AI chatbot with sentiment analysis, PHQ-9/GAD-7 assessments, and automated scoring support. | React, Node.js, NLP |
@@ -155,14 +205,14 @@ I build scalable full-stack applications and AI-powered systems, with interests 
 | [MTP-I: Vision Transformer & Swin Experiments](https://github.com/Bimal2002/mtpwork) | Deep learning experiments using ViT/Swin-style models with SVD and CLAHE preprocessing workflows. | Python, PyTorch, ViT/Swin |
 | [MTP-II: Garbage Classification with ViTs](https://github.com/Bimal2002/MTP-II) | Waste image classification with Vision Transformers, adaptive loss optimization, and train-validation tuning. | Python, PyTorch, Vision Transformers |
 
-## 🎓 Education
+## Education
 
 **Indian Institute of Technology, Kharagpur**
 BS-MS, Statistics and Data Science · 2021 – 2026
 
 *Relevant coursework:* Data Structures & Algorithms, AI & ML, Big Data Analysis, Database Systems, Statistical Inference, Computational Statistics, Nonparametric Inference, Probability & Statistics.
 
-## 📜 Certifications & Learning
+## Certifications & Learning
 
 - Fullstack Web Development
 - Python and SQL for Data Science
@@ -170,7 +220,7 @@ BS-MS, Statistics and Data Science · 2021 – 2026
 - Linear Algebra for Machine Learning and Data Science
 - Exploratory Data Analysis with Python
 
-## 🔗 Repository Map
+## Repository Map
 
 | Area | Links |
 | --- | --- |
@@ -178,12 +228,13 @@ BS-MS, Statistics and Data Science · 2021 – 2026
 | Research repositories | [BTP-I](https://github.com/Bimal2002/BTP-I) · [BTP-II](https://github.com/Bimal2002/BTP-II) · [MTP-I](https://github.com/Bimal2002/mtpwork) · [MTP-II](https://github.com/Bimal2002/MTP-II) |
 | Full-stack work | [portfolio-frontend](https://github.com/Bimal2002/portfolio-frontend) · [portfolio-backend](https://github.com/Bimal2002/portfolio-backend) · [payment-console](https://github.com/Bimal2002/payment-console) |
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to SDE opportunities, full-stack projects, AI/ML applications, DevOps work, research collaborations, and open-source work.
 
-- 📧 Email: [bimalgayali@gmail.com](mailto:bimalgayali@gmail.com)
-- 💼 LinkedIn: [Bimal Gayali](https://www.linkedin.com/in/bimal-gayali-76085521a/)
+- Email: [bimalgayali@gmail.com](mailto:bimalgayali@gmail.com)
+- LinkedIn: [Bimal Gayali](https://www.linkedin.com/in/bimal-gayali-76085521a/)
+- Instagram: [@bimal.os](https://www.instagram.com/bimal.os/)
 
 <div align="center">
 
