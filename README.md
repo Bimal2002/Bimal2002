@@ -1,28 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+AI%2FML+Engineer;Backend+%7C+Speech+AI+%7C+Computer+Vision+%7C+NLP;IIT+Kharagpur+%7C+L%26T+Finance;Building+scalable%2C+AI-powered+systems&font=Fira%20Code&center=true&width=620&height=50&color=0A66C2&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=200&section=header&text=Bimal%20Gayali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20%7C%20DevOps&descAlignY=60&descSize=20" alt="Header" width="100%" />
 
-# Hi, I'm Bimal Gayali 👋
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+AI%2FML+Engineer;Backend+%7C+Speech+AI+%7C+Computer+Vision+%7C+NLP;DevOps+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;IIT+Kharagpur+%7C+L%26T+Finance;Building+scalable%2C+AI-powered+systems&font=Fira%20Code&center=true&width=700&height=50&color=0A66C2&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 
-### PGET – IT @ L&T Finance · BS-MS Statistics & Data Science, IIT Kharagpur · Full-Stack & AI/ML Engineer
+### PGET – IT @ L&T Finance · BS-MS Statistics & Data Science, IIT Kharagpur
 
-I build scalable full-stack applications and AI-powered systems, with interests in backend engineering, speech AI, computer vision, NLP, and machine learning. My recent work includes multilingual speech-intelligence and event-driven AI-agent systems for financial workflows.
+I build scalable full-stack applications and AI-powered systems, with interests in backend engineering, DevOps, speech AI, computer vision, NLP, and machine learning. My recent work includes multilingual speech-intelligence and event-driven AI-agent systems for financial workflows.
 
 <p>
   <a href="mailto:bimalgayali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bimalgayali%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-bimalgayali%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/bimal-gayali-76085521a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bimal%20Gayali-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Bimal%20Gayali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Bimal2002">
-    <img src="https://img.shields.io/badge/GitHub-Bimal2002-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Bimal2002-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.kaggle.com/bimalgayali">
-    <img src="https://img.shields.io/badge/Kaggle-Bimal%20Gayali-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-Bimal%20Gayali-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Bimal2002&style=flat-square&color=0A66C2&label=Profile+Views" alt="Profile Views" />
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=Bimal2002&style=flat-square&color=0A66C2&label=Profile+Views" alt="Profile Views" />
 
 </div>
 
@@ -31,14 +32,14 @@ I build scalable full-stack applications and AI-powered systems, with interests 
 ## 🧭 Profile
 
 - BS-MS in Statistics and Data Science from the Department of Mathematics, Indian Institute of Technology Kharagpur.
-- Interested in SDE roles across full-stack engineering, backend development, AI/ML applications, and data-driven products.
-- Hands-on with production-style web apps, REST APIs, authentication, databases, deep learning workflows, and model evaluation.
+- Interested in SDE roles across full-stack engineering, backend development, DevOps, AI/ML applications, and data-driven products.
+- Hands-on with production-style web apps, REST APIs, authentication, databases, containerized deployments, deep learning workflows, and model evaluation.
 
 ## ⚡ Currently
 
 - 🔭 Working on **financial-services technology** and full-stack, data-driven systems as a PGET – IT at L&T Finance.
-- 🌱 Deepening my work in **speech AI, AI agents, and Vision Transformers** through projects like VoiceFlow AI and LoanFlow AI.
-- 👯 Open to collaborating on **full-stack, AI/ML, and research** projects.
+- 🌱 Deepening my work in **speech AI, AI agents, Vision Transformers, and DevOps practices** through projects like VoiceFlow AI and LoanFlow AI.
+- 👯 Open to collaborating on **full-stack, AI/ML, DevOps, and research** projects.
 - 💬 Ask me about **backend engineering, deep learning, NLP, and computer vision**.
 
 ## 💼 Experience
@@ -55,34 +56,34 @@ I build scalable full-stack applications and AI-powered systems, with interests 
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,py,js,ts,java,bash&theme=dark" alt="Languages" />
 
 **Full-Stack Development**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,fastapi&theme=dark" alt="Full-Stack" />
 
 **Databases & Caching**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" alt="Databases" />
 
 **DevOps & Cloud**
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,terraform,ansible,linux,nginx,prometheus,grafana,aws,gcp&theme=dark" alt="DevOps and Cloud" />
+
+**DevOps Concepts**
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure%20as%20Code-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Containerization](https://img.shields.io/badge/Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Container Orchestration](https://img.shields.io/badge/Container%20Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Monitoring & Observability](https://img.shields.io/badge/Monitoring%20%26%20Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat-square)
+![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cloud Deployment](https://img.shields.io/badge/Cloud%20Deployment-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Git Workflows](https://img.shields.io/badge/Git%20Workflows-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux & Shell](https://img.shields.io/badge/Linux%20%26%20Shell-FCC624?style=flat-square&logo=linux&logoColor=black)
+![REST API Design](https://img.shields.io/badge/REST%20API%20Design-000000?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 **AI/ML, Data & Agents**
 
@@ -107,24 +108,19 @@ I build scalable full-stack applications and AI-powered systems, with interests 
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jupyter&theme=dark" alt="Tools" />
+
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bimal2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bimal2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bimal2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Bimal2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bimal2002&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies" />
 </div>
 
 ## 🧩 Coding Profiles
@@ -175,7 +171,13 @@ BS-MS, Statistics and Data Science · 2021 – 2026
 
 ## 🤝 Let's Connect
 
-I'm open to SDE opportunities, full-stack projects, AI/ML applications, research collaborations, and open-source work.
+I'm open to SDE opportunities, full-stack projects, AI/ML applications, DevOps work, research collaborations, and open-source work.
 
 - 📧 Email: [bimalgayali@gmail.com](mailto:bimalgayali@gmail.com)
 - 💼 LinkedIn: [Bimal Gayali](https://www.linkedin.com/in/bimal-gayali-76085521a/)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:0A66C2&height=120&section=footer" alt="Footer" width="100%" />
+
+</div>
