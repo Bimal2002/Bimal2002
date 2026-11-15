@@ -6,7 +6,7 @@
 
 ### PGET – IT @ L&T Finance · BS-MS Mathematics & Computing, IIT Kharagpur
 
-I'm a full-stack developer who builds **SaaS platforms** — booking, point-of-sale, payments, CRM, and AI integrations — alongside interests in backend engineering, DevOps, and applied machine learning. My recent work spans a multi-tenant venue-operations platform and AI features built on retrieval-augmented generation, plus speech-intelligence and event-driven agent systems for financial workflows.
+I'm a full-stack developer who builds SaaS platforms — booking, point-of-sale, payments, CRM, and AI integrations — alongside interests in backend engineering, DevOps, and applied machine learning. My recent work spans a multi-tenant venue-operations platform and AI features built on retrieval-augmented generation, plus speech-intelligence and event-driven agent systems for financial workflows.
 
 <p>
   <a href="mailto:bimalgayali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -23,39 +23,21 @@ I'm a full-stack developer who builds **SaaS platforms** — booking, point-of-s
 
 ---
 
-## 👨‍💻 About
+## About
 
-- BS-MS in **Mathematics and Computing**, Department of Mathematics, IIT Kharagpur.
-- Full-stack developer focused on **SaaS platforms, booking & payment systems, and AI integrations**.
+- BS-MS in Mathematics and Computing, Department of Mathematics, IIT Kharagpur.
+- Full-stack developer focused on SaaS platforms, booking & payment systems, and AI integrations.
 - Comfortable translating operational requirements into working software — from availability and checkout to staff scheduling, customer communications, and reporting.
-- Open to **SDE roles** across full-stack engineering, backend development, DevOps, and AI/ML.
+- Open to SDE roles across full-stack engineering, backend development, DevOps, and AI/ML.
 
-## ⚡ Currently
+## Currently
 
-- 🔭 Working on **financial-services technology** and full-stack, data-driven systems as a PGET – IT at **L&T Finance**.
-- 🌱 Deepening backend work in **Java, Spring Boot, Quarkus** and DevOps practices (CI/CD, containers, observability).
-- 🤝 Open to collaborating on **full-stack, backend, AI/ML, and DevOps** projects.
-- 💬 Ask me about **SaaS architecture, payments, backend engineering, AI agents & RAG, and deep learning**.
+- Working on financial-services technology and full-stack, data-driven systems as a PGET – IT at L&T Finance.
+- Deepening backend work in Java, Spring Boot, and Quarkus, with DevOps practices (CI/CD, containers, observability).
+- Open to collaborating on full-stack, backend, AI/ML, and DevOps projects.
+- Ask me about SaaS architecture, payments, backend engineering, AI agents & RAG, and deep learning.
 
-## 🌟 Flagship — Movira360 *(SaaS platform for venue & park operations)*
-
-A multi-tenant platform for running entertainment venues end to end — customer booking, point-of-sale, payments, CRM, employee self-service, and AI-powered guest support. *Proprietary codebase — summary of the areas I contributed to.*
-
-| Module | What it does |
-| --- | --- |
-| **Platform Backend** | APIs and business logic for bookings, capacity, customers, payments, tickets, waivers, and workforce operations. |
-| **Customer Booking Portal** | Availability, checkout, waivers, tickets, and party-booking experiences. |
-| **Admin Dashboard** | Venue configuration, operational workflows, and customer management. |
-| **Cashier / POS** | Counter-staff interface for sales, guest lookup, ticket scanning, and check-in. |
-| **Payment Integration Layer** | Provider adapters, location-based routing, terminal integrations, and refund handling. |
-| **CRM** | Transactional & marketing email, segmentation, background processing, and delivery tracking. |
-| **Guest AI** | RAG-based guest assistance over verified venue facts, live availability, and AI-to-human handoff. |
-| **Staff Portal** | Schedules, attendance, timesheets, leave, shift requests, onboarding, and documents. |
-| **Help Center** | Next.js documentation site with static generation, search, and AWS deployment. |
-
-**Stack:** `React` · `Redux Toolkit` · `RTK Query` · `Node.js` · `Express` · `PostgreSQL` · `Sequelize` · `AWS (S3, SES, SNS, SQS, CloudFront)` · `Stripe / Stripe Terminal / Nuvei` · `OpenAI / RAG / embeddings` · `Playwright` · `Vitest` · `GitHub Actions`
-
-## 💼 Experience
+## Experience
 
 | Role | Organization | Duration | Focus |
 | --- | --- | --- | --- |
@@ -65,7 +47,25 @@ A multi-tenant platform for running entertainment venues end to end — customer
 | Frontend Developer Intern | Ideation People Solutions | Jun 2024 – Aug 2024 · Remote | Next.js, Redux.js, responsive UI development, client-side flows |
 | Full-stack Developer Intern | Lending Buddha | Jun 2024 – Jul 2024 | Next.js, JavaScript, frontend implementation, web application logic |
 
-## 🛠️ Technical Skills
+## Flagship — Movira360 (SaaS platform for venue & park operations)
+
+A multi-tenant platform for running entertainment venues end to end — customer booking, point-of-sale, payments, CRM, employee self-service, and AI-powered guest support. Proprietary codebase — summary of the areas I contributed to.
+
+| Module | What it does |
+| --- | --- |
+| Platform Backend | APIs and business logic for bookings, capacity, customers, payments, tickets, waivers, and workforce operations. |
+| Customer Booking Portal | Availability, checkout, waivers, tickets, and party-booking experiences. |
+| Admin Dashboard | Venue configuration, operational workflows, and customer management. |
+| Cashier / POS | Counter-staff interface for sales, guest lookup, ticket scanning, and check-in. |
+| Payment Integration Layer | Provider adapters, location-based routing, terminal integrations, and refund handling. |
+| CRM | Transactional & marketing email, segmentation, background processing, and delivery tracking. |
+| Guest AI | Retrieval-augmented guest assistance over verified venue facts, live availability, and AI-to-human handoff. |
+| Staff Portal | Schedules, attendance, timesheets, leave, shift requests, onboarding, and documents. |
+| Help Center | Next.js documentation site with static generation, search, and AWS deployment. |
+
+**Stack:** React · Redux Toolkit · RTK Query · Node.js · Express · PostgreSQL · Sequelize · AWS (S3, SES, SNS, SQS, CloudFront) · Stripe / Stripe Terminal / Nuvei · OpenAI / RAG / embeddings · Playwright · Vitest · GitHub Actions
+
+## Technical Skills
 
 **Languages**
 
@@ -136,7 +136,7 @@ A multi-tenant platform for running entertainment venues end to end — customer
 
 [![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,jupyter&theme=dark)](https://skillicons.dev)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bimal2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -147,14 +147,14 @@ A multi-tenant platform for running entertainment venues end to end — customer
 <img src="https://streak-stats.demolab.com/?user=Bimal2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🧩 Coding Profiles
+## Coding Profiles
 
 <div align="center">
 <a href="https://leetcode.com/u/coderBimal/"><img src="https://leetcard.jacoblin.cool/coderBimal?theme=dark&font=syne&ext=activity" alt="LeetCode Stats" height="200" /></a>
 <a href="https://www.geeksforgeeks.org/profile/bimalgayali"><img src="https://gfgstatscard.vercel.app/bimalgayali?theme=dark" alt="GeeksforGeeks Stats" height="200" /></a>
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Focus | Tech |
 | --- | --- | --- |
@@ -166,14 +166,14 @@ A multi-tenant platform for running entertainment venues end to end — customer
 | [MTP-I: Vision Transformer & Swin Experiments](https://github.com/Bimal2002/mtpwork) | Deep learning experiments using ViT/Swin-style models with SVD and CLAHE preprocessing. | Python, PyTorch, ViT/Swin |
 | [MTP-II: Garbage Classification with ViTs](https://github.com/Bimal2002/MTP-II) | Waste image classification with Vision Transformers, adaptive loss optimization, and train-val tuning. | Python, PyTorch, Vision Transformers |
 
-## 🎓 Education
+## Education
 
 **Indian Institute of Technology, Kharagpur**
 BS-MS, Mathematics and Computing · 2021 – 2026
 
 *Relevant coursework:* Data Structures & Algorithms, AI & ML, Big Data Analysis, Database Systems, Statistical Inference, Computational Statistics, Nonparametric Inference, Probability & Statistics.
 
-## 📜 Certifications & Learning
+## Certifications & Learning
 
 - Fullstack Web Development
 - Python and SQL for Data Science
@@ -181,13 +181,13 @@ BS-MS, Mathematics and Computing · 2021 – 2026
 - Linear Algebra for Machine Learning and Data Science
 - Exploratory Data Analysis with Python
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm open to SDE opportunities, full-stack and SaaS projects, AI/ML applications, DevOps work, and research collaborations.
 
-- 📧 [bimalgayali@gmail.com](mailto:bimalgayali@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/bimal-gayali-76085521a/)
-- 📸 [Instagram](https://www.instagram.com/bimal.os/)
+- Email: [bimalgayali@gmail.com](mailto:bimalgayali@gmail.com)
+- LinkedIn: [bimal-gayali](https://www.linkedin.com/in/bimal-gayali-76085521a/)
+- Instagram: [@bimal.os](https://www.instagram.com/bimal.os/)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:0A66C2&height=120&section=footer" alt="Footer" />
