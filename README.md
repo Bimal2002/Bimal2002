@@ -139,16 +139,6 @@ A multi-tenant platform for running entertainment venues end to end — customer
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bimal2002&theme=tokyonight" alt="GitHub Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bimal2002&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bimal2002&theme=tokyonight" alt="Most Used Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bimal2002&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</div>
-
-<div align="center">
 <img src="https://streak-stats.demolab.com/?user=Bimal2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
