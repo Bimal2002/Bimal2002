@@ -42,7 +42,7 @@ I'm a full-stack developer who builds SaaS platforms — booking, point-of-sale,
 | Role | Organization | Duration | Focus |
 | --- | --- | --- | --- |
 | Post Graduate Engineer Trainee – IT | L&T Finance | Jul 2026 – Present | Financial-services technology, IT systems, full-stack and data-driven engineering |
-| Back End Developer Intern | Movira360 | May 2025 – Jun 2026 · Remote | Backend web development, Express.js, server-side workflows, API logic |
+| Full-Stack Developer – AI Engineer | Movira360 | May 2025 – Jun 2026 · Remote | React & Node.js SaaS — booking, POS, payments, CRM, and AI (RAG) integrations |
 | Associate Manager | Resurgent Business Pvt Ltd | Mar 2025 – Jun 2026 · Remote | Full-stack development, product development, business-facing execution |
 | Frontend Developer Intern | Ideation People Solutions | Jun 2024 – Aug 2024 · Remote | Next.js, Redux.js, responsive UI development, client-side flows |
 | Full-stack Developer Intern | Lending Buddha | Jun 2024 – Jul 2024 | Next.js, JavaScript, frontend implementation, web application logic |
@@ -139,8 +139,13 @@ A multi-tenant platform for running entertainment venues end to end — customer
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bimal2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bimal2002&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bimal2002&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bimal2002&theme=tokyonight" alt="Most Used Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bimal2002&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 <div align="center">
