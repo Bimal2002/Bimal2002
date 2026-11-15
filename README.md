@@ -1,29 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=200&section=header&text=Bimal%20Gayali&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20%7C%20DevOps&descAlignY=60&descSize=20" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7B2FF7&height=210&section=header&text=Bimal%20Gayali&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20%7C%20DevOps&descAlignY=60&descSize=20" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+AI%2FML+Engineer;Backend+%7C+Speech+AI+%7C+Computer+Vision+%7C+NLP;DevOps+%7C+CI%2FCD+%7C+Docker+%7C+Kubernetes;IIT+Kharagpur+%7C+L%26T+Finance;Building+scalable%2C+AI-powered+systems&font=Fira%20Code&center=true&width=700&height=50&color=0A66C2&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%7C+SaaS+Platforms;Booking%2C+POS%2C+Payments+%26+CRM+Systems;AI+Integrations+%7C+RAG+%7C+Agents;Backend+%7C+DevOps+%7C+Cloud;IIT+Kharagpur+%7C+L%26T+Finance&font=Fira+Code&center=true&width=720&height=50&color=0A66C2&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
 
-### PGET – IT @ L&T Finance · BS-MS Statistics & Data Science, IIT Kharagpur
+### PGET – IT @ L&T Finance · BS-MS Mathematics & Computing, IIT Kharagpur
 
-I build scalable full-stack applications and AI-powered systems, with interests in backend engineering, DevOps, speech AI, computer vision, NLP, and machine learning. My recent work includes multilingual speech-intelligence and event-driven AI-agent systems for financial workflows.
+I'm a full-stack developer who builds **SaaS platforms** — booking, point-of-sale, payments, CRM, and AI integrations — alongside interests in backend engineering, DevOps, and applied machine learning. My recent work spans a multi-tenant venue-operations platform and AI features built on retrieval-augmented generation, plus speech-intelligence and event-driven agent systems for financial workflows.
 
 <p>
-  <a href="mailto:bimalgayali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bimalgayali%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/bimal-gayali-76085521a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bimal%20Gayali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Bimal2002">
-    <img src="https://img.shields.io/badge/GitHub-Bimal2002-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.kaggle.com/bimalgayali">
-    <img src="https://img.shields.io/badge/Kaggle-Bimal%20Gayali-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.instagram.com/bimal.os/">
-    <img src="https://img.shields.io/badge/Instagram-bimal.os-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <a href="mailto:bimalgayali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/bimal-gayali-76085521a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Bimal2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.kaggle.com/bimalgayali"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/u/coderBimal/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.instagram.com/bimal.os/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Bimal2002&style=flat-square&color=0A66C2&label=Profile+Views" alt="Profile Views" />
@@ -32,21 +23,39 @@ I build scalable full-stack applications and AI-powered systems, with interests 
 
 ---
 
-## Profile
+## 👨‍💻 About
 
-- BS-MS in Statistics and Data Science from the Department of Mathematics, Indian Institute of Technology Kharagpur.
-- Interested in SDE roles across full-stack engineering, backend development, DevOps, AI/ML applications, and data-driven products.
-- Hands-on with production-style web apps, REST APIs, authentication, databases, containerized deployments, deep learning workflows, and model evaluation.
+- BS-MS in **Mathematics and Computing**, Department of Mathematics, IIT Kharagpur.
+- Full-stack developer focused on **SaaS platforms, booking & payment systems, and AI integrations**.
+- Comfortable translating operational requirements into working software — from availability and checkout to staff scheduling, customer communications, and reporting.
+- Open to **SDE roles** across full-stack engineering, backend development, DevOps, and AI/ML.
 
-## Currently
+## ⚡ Currently
 
-- Working on financial-services technology and full-stack, data-driven systems as a PGET – IT at L&T Finance.
-- Designing a shared, provider-neutral AI platform (FastAPI, PostgreSQL/pgvector, LiteLLM gateway) for Guest AI and CRM agents, alongside speech AI projects like VoiceFlow AI and LoanFlow AI.
-- Deepening my backend work in Java, Spring Boot, Quarkus, and DevOps practices (CI/CD, containers, observability).
-- Open to collaborating on full-stack, backend, AI/ML, DevOps, and research projects.
-- Ask me about backend engineering, AI agents and RAG, deep learning, NLP, and computer vision.
+- 🔭 Working on **financial-services technology** and full-stack, data-driven systems as a PGET – IT at **L&T Finance**.
+- 🌱 Deepening backend work in **Java, Spring Boot, Quarkus** and DevOps practices (CI/CD, containers, observability).
+- 🤝 Open to collaborating on **full-stack, backend, AI/ML, and DevOps** projects.
+- 💬 Ask me about **SaaS architecture, payments, backend engineering, AI agents & RAG, and deep learning**.
 
-## Experience
+## 🌟 Flagship — Movira360 *(SaaS platform for venue & park operations)*
+
+A multi-tenant platform for running entertainment venues end to end — customer booking, point-of-sale, payments, CRM, employee self-service, and AI-powered guest support. *Proprietary codebase — summary of the areas I contributed to.*
+
+| Module | What it does |
+| --- | --- |
+| **Platform Backend** | APIs and business logic for bookings, capacity, customers, payments, tickets, waivers, and workforce operations. |
+| **Customer Booking Portal** | Availability, checkout, waivers, tickets, and party-booking experiences. |
+| **Admin Dashboard** | Venue configuration, operational workflows, and customer management. |
+| **Cashier / POS** | Counter-staff interface for sales, guest lookup, ticket scanning, and check-in. |
+| **Payment Integration Layer** | Provider adapters, location-based routing, terminal integrations, and refund handling. |
+| **CRM** | Transactional & marketing email, segmentation, background processing, and delivery tracking. |
+| **Guest AI** | RAG-based guest assistance over verified venue facts, live availability, and AI-to-human handoff. |
+| **Staff Portal** | Schedules, attendance, timesheets, leave, shift requests, onboarding, and documents. |
+| **Help Center** | Next.js documentation site with static generation, search, and AWS deployment. |
+
+**Stack:** `React` · `Redux Toolkit` · `RTK Query` · `Node.js` · `Express` · `PostgreSQL` · `Sequelize` · `AWS (S3, SES, SNS, SQS, CloudFront)` · `Stripe / Stripe Terminal / Nuvei` · `OpenAI / RAG / embeddings` · `Playwright` · `Vitest` · `GitHub Actions`
+
+## 💼 Experience
 
 | Role | Organization | Duration | Focus |
 | --- | --- | --- | --- |
@@ -56,163 +65,115 @@ I build scalable full-stack applications and AI-powered systems, with interests 
 | Frontend Developer Intern | Ideation People Solutions | Jun 2024 – Aug 2024 · Remote | Next.js, Redux.js, responsive UI development, client-side flows |
 | Full-stack Developer Intern | Lending Buddha | Jun 2024 – Jul 2024 | Next.js, JavaScript, frontend implementation, web application logic |
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,py,c,cpp,r,js,ts,bash&theme=dark" alt="Languages" />
+[![Languages](https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,html,css&theme=dark)](https://skillicons.dev)
 
-**Full-Stack Development**
+**Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring,fastapi&theme=dark" alt="Full-Stack" />
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,vite,tailwind&theme=dark)](https://skillicons.dev)
+&nbsp;![RTK Query](https://img.shields.io/badge/RTK%20Query-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
-**Backend Engineering**
+**Backend**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat-square)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-![Redis Streams](https://img.shields.io/badge/Redis%20Streams-DC382D?style=flat-square&logo=redis&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-0A66C2?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Swagger / OpenAPI](https://img.shields.io/badge/Swagger%20%2F%20OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![JWT / OAuth2](https://img.shields.io/badge/JWT%20%2F%20OAuth2-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Backend Concepts**
-
-![REST API Design](https://img.shields.io/badge/REST%20API%20Design-0A66C2?style=flat-square)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&theme=dark)](https://skillicons.dev)
+&nbsp;![REST APIs](https://img.shields.io/badge/REST%20APIs-0A66C2?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6C37?style=flat-square)
+![Background Jobs](https://img.shields.io/badge/Background%20Jobs-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat-square)
-![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-DC382D?style=flat-square)
-![Authentication & Authorization](https://img.shields.io/badge/Authentication%20%26%20Authorization-7B2FF7?style=flat-square)
-![Caching Strategies](https://img.shields.io/badge/Caching%20Strategies-DC382D?style=flat-square)
-![ORM & Data Modeling](https://img.shields.io/badge/ORM%20%26%20Data%20Modeling-59666C?style=flat-square)
-![Concurrency & Multithreading](https://img.shields.io/badge/Concurrency%20%26%20Multithreading-ED8B00?style=flat-square)
-![Design Patterns & SOLID](https://img.shields.io/badge/Design%20Patterns%20%26%20SOLID-6DB33F?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-0A66C2?style=flat-square)
-![Idempotent Jobs & Outbox Pattern](https://img.shields.io/badge/Idempotent%20Jobs%20%26%20Outbox%20Pattern-7B2FF7?style=flat-square)
-![Rate Limiting & Usage Metering](https://img.shields.io/badge/Rate%20Limiting%20%26%20Usage%20Metering-DC382D?style=flat-square)
-![Multi-Tenant Design](https://img.shields.io/badge/Multi--Tenant%20Design-0A66C2?style=flat-square)
-![RAG & Vector Retrieval](https://img.shields.io/badge/RAG%20%26%20Vector%20Retrieval-009688?style=flat-square)
-![API Gateway & Model Routing](https://img.shields.io/badge/API%20Gateway%20%26%20Model%20Routing-4695EB?style=flat-square)
-![Database Migrations](https://img.shields.io/badge/Database%20Migrations-316192?style=flat-square)
-![Service-to--Service Integration](https://img.shields.io/badge/Service--to--Service%20Integration-59666C?style=flat-square)
-![Unit & Integration Testing](https://img.shields.io/badge/Unit%20%26%20Integration%20Testing-25A162?style=flat-square)
 
-**Databases & Caching**
+**Databases & ORM**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" alt="Databases" />
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark)](https://skillicons.dev)
+&nbsp;![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+![Migrations](https://img.shields.io/badge/Migrations%20%26%20Data%20Modeling-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-**DevOps & Cloud**
+**Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,terraform,ansible,linux,nginx,prometheus,grafana,aws,gcp&theme=dark" alt="DevOps and Cloud" />
-
-**DevOps Concepts**
-
+[![DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,linux,nginx&theme=dark)](https://skillicons.dev)
+&nbsp;![AWS S3/SES/SNS/SQS](https://img.shields.io/badge/AWS%20S3%20%C2%B7%20SES%20%C2%B7%20SNS%20%C2%B7%20SQS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Infrastructure as Code](https://img.shields.io/badge/Infrastructure%20as%20Code-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Containerization](https://img.shields.io/badge/Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Container Orchestration](https://img.shields.io/badge/Container%20Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Monitoring & Observability](https://img.shields.io/badge/Monitoring%20%26%20Observability-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-009688?style=flat-square)
-![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven%20Architecture-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Cloud Deployment](https://img.shields.io/badge/Cloud%20Deployment-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Git Workflows](https://img.shields.io/badge/Git%20Workflows-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux & Shell](https://img.shields.io/badge/Linux%20%26%20Shell-FCC624?style=flat-square&logo=linux&logoColor=black)
-![REST API Design](https://img.shields.io/badge/REST%20API%20Design-000000?style=flat-square)
-![Agile](https://img.shields.io/badge/Agile%20%2F%20Scrum-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-**AI/ML, Data & Agents**
+**Payments & Integrations**
 
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Stripe Terminal](https://img.shields.io/badge/Stripe%20Terminal-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Nuvei](https://img.shields.io/badge/Nuvei-FF6A00?style=flat-square)
+![Refunds & Routing](https://img.shields.io/badge/Payment%20Routing%20%26%20Refunds-0A66C2?style=flat-square)
+![Recurring Billing](https://img.shields.io/badge/Recurring%20Billing-009688?style=flat-square)
+
+**AI/ML & Data**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%26%20Embeddings-009688?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Architectures & Deep Learning Concepts**
+**Testing**
 
-![ANN](https://img.shields.io/badge/ANN-00599C?style=flat-square)
-![CNN](https://img.shields.io/badge/CNN%20(ResNet%2C%20Dual%20ResNet)-3776AB?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+**Deep Learning Architectures**
+
+![CNN](https://img.shields.io/badge/CNN%20(ResNet)-3776AB?style=flat-square)
 ![RNN](https://img.shields.io/badge/RNN-4285F4?style=flat-square)
 ![Transformers](https://img.shields.io/badge/Transformers%20(ViT%2C%20Swin)-5C3EE8?style=flat-square)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-FF6F00?style=flat-square)
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,jupyter&theme=dark" alt="Tools" />
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,jupyter&theme=dark)](https://skillicons.dev)
 
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bimal2002&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bimal2002&theme=tokyonight" alt="Top Languages" height="180" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bimal2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimal2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bimal2002&theme=tokyonight" alt="Most Used Languages" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bimal2002&theme=tokyonight" alt="GitHub Summary" height="180" />
+<img src="https://streak-stats.demolab.com/?user=Bimal2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+## 🧩 Coding Profiles
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/0A66C2/Bimal2002" alt="Contribution Chart" width="90%" />
+<a href="https://leetcode.com/u/coderBimal/"><img src="https://leetcard.jacoblin.cool/coderBimal?theme=dark&font=syne&ext=activity" alt="LeetCode Stats" height="200" /></a>
+<a href="https://www.geeksforgeeks.org/profile/bimalgayali"><img src="https://gfgstatscard.vercel.app/bimalgayali?theme=dark" alt="GeeksforGeeks Stats" height="200" /></a>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bimal2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## Coding Profiles
-
-<div align="center">
-  <a href="https://leetcode.com/u/coderBimal/">
-    <img src="https://leetcard.jacoblin.cool/coderBimal?theme=dark&font=syne&ext=activity" alt="LeetCode Stats" height="200" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/bimalgayali">
-    <img src="https://gfgstatscard.vercel.app/bimalgayali?theme=dark" alt="GeeksforGeeks Stats" height="200" />
-  </a>
-</div>
-
-## Featured Projects
+## 🚀 Featured Projects
 
 | Project | Focus | Tech |
 | --- | --- | --- |
-| **Movira Central AI Platform** (architecture and plan) | Shared, provider-neutral AI platform for Guest, Staff, Calendar, Marketing, and Scheduling agents: FastAPI API layer, PostgreSQL usage ledger and budgets, pgvector retrieval, private LiteLLM gateway, Celery jobs with approvals, and cloud, self-hosted (vLLM, llama.cpp), or hybrid model routing. | Python, FastAPI, PostgreSQL, pgvector, LiteLLM, Celery, Redis, LangGraph |
-| [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI) | Offline speech intelligence for financial conversations with transcription, translation, and summarization workflows. | Python, Whisper, NLP |
-| [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) | Event-driven loan-processing prototype with role-scoped AI agents, policy wiki, audit history, and secure authentication. | Python, FastAPI, Redis Streams |
-| [MindfulBot – Mental Health Chatbot](https://www.linkedin.com/in/bimal-gayali-76085521a/) | Full-stack AI chatbot with sentiment analysis, PHQ-9/GAD-7 assessments, and automated scoring support. | React, Node.js, NLP |
-| [BTP-I: Bengali Handwritten Character Recognition](https://github.com/Bimal2002/BTP-I) | Comparative study of CNN variants and lightweight pretrained models for Bengali handwritten character recognition. | Python, CNN, Transfer Learning |
-| [BTP-II: Forest Fire Management & Reforestation](https://github.com/Bimal2002/BTP-II) | Markov Decision Process and multi-objective reinforcement learning for forest fire management and reforestation. | Python, RL, Optimization |
-| [MTP-I: Vision Transformer & Swin Experiments](https://github.com/Bimal2002/mtpwork) | Deep learning experiments using ViT/Swin-style models with SVD and CLAHE preprocessing workflows. | Python, PyTorch, ViT/Swin |
-| [MTP-II: Garbage Classification with ViTs](https://github.com/Bimal2002/MTP-II) | Waste image classification with Vision Transformers, adaptive loss optimization, and train-validation tuning. | Python, PyTorch, Vision Transformers |
+| [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI) | Offline speech intelligence for financial conversations — transcription, translation, and summarization. | Python, Whisper, NLP |
+| [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) | Event-driven loan-processing prototype with role-scoped AI agents, policy wiki, audit history, and secure auth. | Python, FastAPI, Redis Streams |
+| [MindfulBot – Mental Health Chatbot](https://www.linkedin.com/in/bimal-gayali-76085521a/) | Full-stack AI chatbot with sentiment analysis, PHQ-9/GAD-7 assessments, and automated scoring. | React, Node.js, NLP |
+| [BTP-I: Bengali Handwritten Character Recognition](https://github.com/Bimal2002/BTP-I) | Comparative study of CNN variants and lightweight pretrained models for Bengali handwriting. | Python, CNN, Transfer Learning |
+| [BTP-II: Forest Fire Management & Reforestation](https://github.com/Bimal2002/BTP-II) | MDP and multi-objective reinforcement learning for forest fire management and reforestation. | Python, RL, Optimization |
+| [MTP-I: Vision Transformer & Swin Experiments](https://github.com/Bimal2002/mtpwork) | Deep learning experiments using ViT/Swin-style models with SVD and CLAHE preprocessing. | Python, PyTorch, ViT/Swin |
+| [MTP-II: Garbage Classification with ViTs](https://github.com/Bimal2002/MTP-II) | Waste image classification with Vision Transformers, adaptive loss optimization, and train-val tuning. | Python, PyTorch, Vision Transformers |
 
-## Education
+## 🎓 Education
 
 **Indian Institute of Technology, Kharagpur**
-BS-MS, Statistics and Data Science · 2021 – 2026
+BS-MS, Mathematics and Computing · 2021 – 2026
 
 *Relevant coursework:* Data Structures & Algorithms, AI & ML, Big Data Analysis, Database Systems, Statistical Inference, Computational Statistics, Nonparametric Inference, Probability & Statistics.
 
-## Certifications & Learning
+## 📜 Certifications & Learning
 
 - Fullstack Web Development
 - Python and SQL for Data Science
@@ -220,24 +181,14 @@ BS-MS, Statistics and Data Science · 2021 – 2026
 - Linear Algebra for Machine Learning and Data Science
 - Exploratory Data Analysis with Python
 
-## Repository Map
+## 🤝 Let's Connect
 
-| Area | Links |
-| --- | --- |
-| Latest AI projects | [VoiceFlow AI](https://github.com/Bimal2002/VoiceFlow-AI) · [LoanFlow AI](https://github.com/Bimal2002/LoanFlowAi) |
-| Research repositories | [BTP-I](https://github.com/Bimal2002/BTP-I) · [BTP-II](https://github.com/Bimal2002/BTP-II) · [MTP-I](https://github.com/Bimal2002/mtpwork) · [MTP-II](https://github.com/Bimal2002/MTP-II) |
-| Full-stack work | [portfolio-frontend](https://github.com/Bimal2002/portfolio-frontend) · [portfolio-backend](https://github.com/Bimal2002/portfolio-backend) · [payment-console](https://github.com/Bimal2002/payment-console) |
+I'm open to SDE opportunities, full-stack and SaaS projects, AI/ML applications, DevOps work, and research collaborations.
 
-## Let's Connect
-
-I'm open to SDE opportunities, full-stack projects, AI/ML applications, DevOps work, research collaborations, and open-source work.
-
-- Email: [bimalgayali@gmail.com](mailto:bimalgayali@gmail.com)
-- LinkedIn: [Bimal Gayali](https://www.linkedin.com/in/bimal-gayali-76085521a/)
-- Instagram: [@bimal.os](https://www.instagram.com/bimal.os/)
+- 📧 [bimalgayali@gmail.com](mailto:bimalgayali@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bimal-gayali-76085521a/)
+- 📸 [Instagram](https://www.instagram.com/bimal.os/)
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:0A66C2&height=120&section=footer" alt="Footer" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:0A66C2&height=120&section=footer" alt="Footer" />
 </div>
