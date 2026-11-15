@@ -51,7 +51,7 @@ I build scalable full-stack applications and AI-powered systems, with interests 
 | Role | Organization | Duration | Focus |
 | --- | --- | --- | --- |
 | Post Graduate Engineer Trainee – IT | L&T Finance | Jul 2026 – Present | Financial-services technology, IT systems, full-stack and data-driven engineering |
-| Back End Developer Intern | Aerosports Parks | May 2025 – Jun 2026 · Remote | Backend web development, Express.js, server-side workflows, API logic |
+| Back End Developer Intern | Movira360 | May 2025 – Jun 2026 · Remote | Backend web development, Express.js, server-side workflows, API logic |
 | Associate Manager | Resurgent Business Pvt Ltd | Mar 2025 – Jun 2026 · Remote | Full-stack development, product development, business-facing execution |
 | Frontend Developer Intern | Ideation People Solutions | Jun 2024 – Aug 2024 · Remote | Next.js, Redux.js, responsive UI development, client-side flows |
 | Full-stack Developer Intern | Lending Buddha | Jun 2024 – Jul 2024 | Next.js, JavaScript, frontend implementation, web application logic |
