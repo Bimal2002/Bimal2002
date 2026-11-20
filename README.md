@@ -6,7 +6,7 @@
 
 ### PGET – IT @ L&T Finance · BS-MS Mathematics & Computing, IIT Kharagpur
 
-I'm a full-stack developer who builds SaaS platforms — booking, point-of-sale, payments, CRM, and AI integrations — alongside interests in backend engineering, DevOps, and applied machine learning. My recent work spans a multi-tenant venue-operations platform and AI features built on retrieval-augmented generation, plus speech-intelligence and event-driven agent systems for financial workflows.
+I'm a full-stack developer who builds SaaS platforms — booking, point-of-sale, payments, CRM, and AI integrations — alongside interests in backend engineering, DevOps, and applied machine learning. My recent work spans a multi-tenant venue-operations platform and AI features built on retrieval-augmented generation,plus speech-intelligence and event-driven agent systems for financial workflows.
 
 <p>
   <a href="mailto:bimalgayali@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
